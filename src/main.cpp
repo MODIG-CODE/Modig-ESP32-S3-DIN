@@ -51,7 +51,7 @@ void setup() {
     //---SETT restore defaults---
     leds.blink(STATUS_LED, 1000);
     if (!sett.begin(1)) while (1){};
-    delay(1000);
+    delay(1100);
   } else {
     if (!sett.begin(0)) while (1){};
   }
