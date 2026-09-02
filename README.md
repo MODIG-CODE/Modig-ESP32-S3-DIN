@@ -1,2 +1,3 @@
 # ESP32-S3-DIN-test
-<img width="1159" height="742" alt="obraz" src="https://github.com/user-attachments/assets/2cb77f51-31a6-4470-b6f5-8b503fbd3c43" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/853e8fa2-9aac-40e2-b299-211cc49b7af6" />
+
